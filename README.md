@@ -1,4 +1,4 @@
-Excel Project based on  Gross Domestic product dataset. Creating password, changing data dype, filter data, turn data into table, Creating charts to visualise the report and also edit the charts using creative skills to make the charts visually pleasing 
+Excel Project based on  Gross Domestic product dataset. Creating password, changing data dype, filter data, turn data into table, Creating charts to visualise the report and also edit the charts using creative skills to make the charts visually pleasing. 
 
 ![i](https://github.com/atikurda/Excel_Gross-Domestic-Product_Report/assets/142215677/99663e95-593c-4391-bd4a-215ee23cfd20)
 ![iv](https://github.com/atikurda/Excel_Gross-Domestic-Product_Report/assets/142215677/53439df3-c80e-49c0-99ae-d4bdbd075eb8)
